@@ -1,0 +1,14 @@
+{
+    "name": "rc-select",
+    "description": "select ui component for react",
+    "repos": "https://github.com/react-component/select.git",
+    "main": "./lib/index",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "rc-menu": "4.x",
+        "rc-trigger": "1.x",
+        "rc-util": "3.x"
+    },
+    "version": "5.1.2"
+}
