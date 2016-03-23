@@ -9,9 +9,9 @@
         "classnames": "2.x",
         "dom-scroll-into-view": "1.x",
         "rc-animate": "2.x",
-        "rc-menu": "4.x",
-        "rc-trigger": "1.x",
+        "rc-menu": "^4.10.4",
+        "rc-trigger": "^1.2.0",
         "rc-util": "3.x"
     },
-    "version": "5.9.3"
+    "version": "5.10.0"
 }
